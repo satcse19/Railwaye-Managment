@@ -113,24 +113,26 @@
             // 
             // button1
             // 
+            this.button1.BackColor = System.Drawing.Color.Lime;
             this.button1.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.button1.Location = new System.Drawing.Point(61, 197);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(46, 30);
             this.button1.TabIndex = 6;
             this.button1.Text = "Save";
-            this.button1.UseVisualStyleBackColor = true;
+            this.button1.UseVisualStyleBackColor = false;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button2
             // 
+            this.button2.BackColor = System.Drawing.Color.Red;
             this.button2.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.button2.Location = new System.Drawing.Point(185, 196);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(53, 30);
             this.button2.TabIndex = 7;
             this.button2.Text = "Delete";
-            this.button2.UseVisualStyleBackColor = true;
+            this.button2.UseVisualStyleBackColor = false;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // groupBox1
@@ -157,13 +159,14 @@
             // 
             // button3
             // 
+            this.button3.BackColor = System.Drawing.Color.Yellow;
             this.button3.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.button3.Location = new System.Drawing.Point(121, 196);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(52, 30);
             this.button3.TabIndex = 10;
             this.button3.Text = "Show";
-            this.button3.UseVisualStyleBackColor = true;
+            this.button3.UseVisualStyleBackColor = false;
             this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // textBox4

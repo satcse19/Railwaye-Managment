@@ -43,13 +43,14 @@
             // 
             // Search
             // 
+            this.Search.BackColor = System.Drawing.Color.Yellow;
             this.Search.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.Search.Location = new System.Drawing.Point(248, 19);
             this.Search.Name = "Search";
             this.Search.Size = new System.Drawing.Size(94, 23);
             this.Search.TabIndex = 0;
             this.Search.Text = "Search";
-            this.Search.UseVisualStyleBackColor = true;
+            this.Search.UseVisualStyleBackColor = false;
             this.Search.Click += new System.EventHandler(this.button1_Click);
             // 
             // textBox1
