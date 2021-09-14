@@ -99,27 +99,5 @@ namespace Railwaye_Management.Properties {
                 return ((string)(this["tcConnectionString"]));
             }
         }
-        
-        [global::System.Configuration.ApplicationScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\\staff.mdf;Int" +
-            "egrated Security=True")]
-        public string staffConnectionString {
-            get {
-                return ((string)(this["staffConnectionString"]));
-            }
-        }
-        
-        [global::System.Configuration.ApplicationScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\\reched.mdf;In" +
-            "tegrated Security=True")]
-        public string rechedConnectionString {
-            get {
-                return ((string)(this["rechedConnectionString"]));
-            }
-        }
     }
 }

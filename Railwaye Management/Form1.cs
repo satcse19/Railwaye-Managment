@@ -32,7 +32,7 @@ namespace Railwaye_Management
             if (dt.Rows[0][0].ToString() == "1")
             {
                 this.Hide();
-                design mm = new design();
+                Form2 mm = new Form2();
                 mm.Show();
             }
 
