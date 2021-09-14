@@ -61,17 +61,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="design.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="design.Designer.cs">
+      <DependentUpon>design.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Form2.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Form2.Designer.cs">
-      <DependentUpon>Form2.cs</DependentUpon>
     </Compile>
     <Compile Include="infoDataSet.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -91,6 +91,22 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="rechedDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rechedDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Staff Sallary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Staff Sallary.Designer.cs">
+      <DependentUpon>Staff Sallary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="staffDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>staffDataSet1.xsd</DependentUpon>
+    </Compile>
     <Compile Include="tcDataSet.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -112,17 +128,29 @@
     <Compile Include="Ticket.Designer.cs">
       <DependentUpon>Ticket.cs</DependentUpon>
     </Compile>
+    <Compile Include="Track.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Track.Designer.cs">
+      <DependentUpon>Track.cs</DependentUpon>
+    </Compile>
     <Compile Include="train shedule and dely .cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="train shedule and dely .Designer.cs">
       <DependentUpon>train shedule and dely .cs</DependentUpon>
     </Compile>
+    <Compile Include="Train tac.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Train tac.Designer.cs">
+      <DependentUpon>Train tac.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="design.resx">
+      <DependentUpon>design.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Form2.resx">
-      <DependentUpon>Form2.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="passangerlist.resx">
       <DependentUpon>passangerlist.cs</DependentUpon>
@@ -136,11 +164,20 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Staff Sallary.resx">
+      <DependentUpon>Staff Sallary.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Ticket.resx">
       <DependentUpon>Ticket.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Track.resx">
+      <DependentUpon>Track.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="train shedule and dely .resx">
       <DependentUpon>train shedule and dely .cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Train tac.resx">
+      <DependentUpon>Train tac.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="infoDataSet.xsc">
       <DependentUpon>infoDataSet.xsd</DependentUpon>
@@ -173,6 +210,28 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <None Include="rechedDataSet.xsc">
+      <DependentUpon>rechedDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="rechedDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>rechedDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="rechedDataSet.xss">
+      <DependentUpon>rechedDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="staffDataSet1.xsc">
+      <DependentUpon>staffDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="staffDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>staffDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="staffDataSet1.xss">
+      <DependentUpon>staffDataSet1.xsd</DependentUpon>
+    </None>
     <None Include="tcDataSet.xsc">
       <DependentUpon>tcDataSet.xsd</DependentUpon>
     </None>
@@ -229,6 +288,20 @@
     <Content Include="info_log.ldf">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <DependentUpon>info.mdf</DependentUpon>
+    </Content>
+    <Content Include="reched.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="reched_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>reched.mdf</DependentUpon>
+    </Content>
+    <Content Include="staff.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="staff_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>staff.mdf</DependentUpon>
     </Content>
     <Content Include="tc.mdf">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>

@@ -43,7 +43,7 @@
             // 
             // Search
             // 
-            this.Search.BackColor = System.Drawing.Color.Yellow;
+            this.Search.BackColor = System.Drawing.Color.Lime;
             this.Search.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.Search.Location = new System.Drawing.Point(248, 19);
             this.Search.Name = "Search";

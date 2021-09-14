@@ -71,6 +71,11 @@ namespace Railwaye_Management
             this.infoTableAdapter.Fill(this.infoDataSet1.info);
 
         }
+
+        private void label6_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 
 }

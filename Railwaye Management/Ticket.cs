@@ -18,8 +18,12 @@ namespace Railwaye_Management
             InitializeComponent();
         }
         SqlConnection con = new SqlConnection(global::Railwaye_Management.Properties.Settings.Default.tcConnectionString);
+
+
         private void button1_Click(object sender, EventArgs e)
+
         {
+   
             richTextBox1.Clear();
             richTextBox1.Text  += "******************\n";
             richTextBox1.Text += "**********Ticket****\n";
@@ -29,6 +33,7 @@ namespace Railwaye_Management
             richTextBox1.Text += "From:" + textBox2.Text + "\n\n";
             richTextBox1.Text += "To:" + textBox3.Text + "\n\n";
             richTextBox1.Text += "Fee:" + textBox4.Text + "\n\n";
+            
         }
 
         
@@ -78,5 +83,11 @@ namespace Railwaye_Management
             disp_data();
 
         }
+
+        private void Ticket_Load(object sender, EventArgs e)
+        {
+
+        }
     }
+
 }

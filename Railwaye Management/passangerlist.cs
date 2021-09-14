@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using System.Runtime.InteropServices;
+
 namespace Railwaye_Management
 {
     public partial class passangerlist : Form
@@ -23,15 +23,5 @@ namespace Railwaye_Management
             this.tcTableAdapter.Fill(this.tcDataSet1.tc);
 
         }
-    
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-          
-           
-   
-
-        }
     }
-
 }
