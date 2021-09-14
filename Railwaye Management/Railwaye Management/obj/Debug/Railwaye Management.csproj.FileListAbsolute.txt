@@ -1,0 +1,52 @@
+C:\Users\tushe\Desktop\sms\Railwaye Management\Railwaye Management\bin\Debug\Railwaye Management.exe.config
+C:\Users\tushe\Desktop\sms\Railwaye Management\Railwaye Management\bin\Debug\Railwaye Management.exe
+C:\Users\tushe\Desktop\sms\Railwaye Management\Railwaye Management\bin\Debug\Railwaye Management.pdb
+C:\Users\tushe\Desktop\sms\Railwaye Management\Railwaye Management\obj\Debug\Railwaye_Management.Form1.resources
+C:\Users\tushe\Desktop\sms\Railwaye Management\Railwaye Management\obj\Debug\Railwaye_Management.Properties.Resources.resources
+C:\Users\tushe\Desktop\sms\Railwaye Management\Railwaye Management\obj\Debug\Railwaye Management.csproj.GenerateResource.Cache
+C:\Users\tushe\Desktop\sms\Railwaye Management\Railwaye Management\obj\Debug\Railwaye Management.exe
+C:\Users\tushe\Desktop\sms\Railwaye Management\Railwaye Management\obj\Debug\Railwaye Management.pdb
+C:\Users\tushe\Desktop\sms\Railwaye Management\Railwaye Management\bin\Debug\textlogin.mdf
+C:\Users\tushe\Desktop\sms\Railwaye Management\Railwaye Management\bin\Debug\textlogin_log.ldf
+C:\Users\tushe\Desktop\sms\Railwaye Management\Railwaye Management\obj\Debug\Railwaye_Management.Form2.resources
+I:\sms\Railwaye Management\Railwaye Management\bin\Debug\Railwaye Management.exe.config
+I:\sms\Railwaye Management\Railwaye Management\obj\Debug\Railwaye Management.exe
+I:\sms\Railwaye Management\Railwaye Management\obj\Debug\Railwaye Management.pdb
+I:\sms\Railwaye Management\Railwaye Management\bin\Debug\textlogin.mdf
+I:\sms\Railwaye Management\Railwaye Management\bin\Debug\textlogin_log.ldf
+I:\sms\Railwaye Management\Railwaye Management\bin\Debug\Railwaye Management.exe
+I:\sms\Railwaye Management\Railwaye Management\bin\Debug\Railwaye Management.pdb
+I:\sms\Railwaye Management\Railwaye Management\obj\Debug\Railwaye Management.csprojResolveAssemblyReference.cache
+I:\sms\Railwaye Management\Railwaye Management\obj\Debug\Railwaye_Management.Form1.resources
+I:\sms\Railwaye Management\Railwaye Management\obj\Debug\Railwaye_Management.Form2.resources
+I:\sms\Railwaye Management\Railwaye Management\obj\Debug\Railwaye_Management.Properties.Resources.resources
+I:\sms\Railwaye Management\Railwaye Management\obj\Debug\Railwaye Management.csproj.GenerateResource.Cache
+T:\sms\Railwaye Management\Railwaye Management\bin\Debug\Railwaye Management.exe.config
+T:\sms\Railwaye Management\Railwaye Management\obj\Debug\Railwaye Management.exe
+T:\sms\Railwaye Management\Railwaye Management\obj\Debug\Railwaye Management.pdb
+C:\Users\tushe\Desktop\Railwaye Management\Railwaye Management\bin\Debug\Railwaye Management.exe.config
+C:\Users\tushe\Desktop\Railwaye Management\Railwaye Management\obj\Debug\Railwaye Management.exe
+C:\Users\tushe\Desktop\Railwaye Management\Railwaye Management\obj\Debug\Railwaye Management.pdb
+C:\Users\tushe\Desktop\Railwaye Management\Railwaye Management\bin\Debug\textlogin.mdf
+C:\Users\tushe\Desktop\Railwaye Management\Railwaye Management\bin\Debug\textlogin_log.ldf
+C:\Users\tushe\Desktop\Railwaye Management\Railwaye Management\bin\Debug\Railwaye Management.exe
+C:\Users\tushe\Desktop\Railwaye Management\Railwaye Management\bin\Debug\Railwaye Management.pdb
+C:\Users\tushe\Desktop\Railwaye Management\Railwaye Management\obj\Debug\Railwaye Management.csprojResolveAssemblyReference.cache
+C:\Users\tushe\Desktop\Railwaye Management\Railwaye Management\obj\Debug\Railwaye_Management.Form1.resources
+C:\Users\tushe\Desktop\Railwaye Management\Railwaye Management\obj\Debug\Railwaye_Management.Properties.Resources.resources
+C:\Users\tushe\Desktop\Railwaye Management\Railwaye Management\obj\Debug\Railwaye Management.csproj.GenerateResource.Cache
+C:\Users\tushe\Desktop\Railwaye Management\Railwaye Management\obj\Debug\Railwaye_Management.train_shedule_and_dely.resources
+C:\Users\tushe\Desktop\Railwaye Management\Railwaye Management\bin\Debug\info.mdf
+C:\Users\tushe\Desktop\Railwaye Management\Railwaye Management\bin\Debug\info_log.ldf
+C:\Users\tushe\Desktop\Railwaye Management\Railwaye Management\obj\Debug\Railwaye_Management.Ticket.resources
+C:\Users\tushe\Desktop\Railwaye Management\Railwaye Management\bin\Debug\tc.mdf
+C:\Users\tushe\Desktop\Railwaye Management\Railwaye Management\bin\Debug\tc_log.ldf
+C:\Users\tushe\Desktop\Railwaye Management\Railwaye Management\obj\Debug\Railwaye_Management.passangerlist.resources
+C:\Users\tushe\Desktop\Railwaye Management\Railwaye Management\obj\Debug\Railwaye_Management.Staff_Sallary.resources
+C:\Users\tushe\Desktop\Railwaye Management\Railwaye Management\bin\Debug\staff.mdf
+C:\Users\tushe\Desktop\Railwaye Management\Railwaye Management\bin\Debug\staff_log.ldf
+C:\Users\tushe\Desktop\Railwaye Management\Railwaye Management\obj\Debug\Railwaye_Management.Track.resources
+C:\Users\tushe\Desktop\Railwaye Management\Railwaye Management\bin\Debug\reched.mdf
+C:\Users\tushe\Desktop\Railwaye Management\Railwaye Management\bin\Debug\reched_log.ldf
+C:\Users\tushe\Desktop\Railwaye Management\Railwaye Management\obj\Debug\Railwaye_Management.design.resources
+C:\Users\tushe\Desktop\Railwaye Management\Railwaye Management\obj\Debug\Railwaye_Management.Train_tac.resources
